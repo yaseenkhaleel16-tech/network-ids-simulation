@@ -1,3 +1,8 @@
+<img width="1865" height="838" alt="Screenshot 2026-10-02 121457" src="https://github.com/user-attachments/assets/9de04c2a-94e5-4fd1-ae58-fca9a0f82052" />
+<img width="1872" height="885" alt="Screenshot 2026-10-02 121447" src="https://github.com/user-attachments/assets/42405cb3-c92b-43ba-b298-6d034a32416e" />
+<img width="1886" height="891" alt="Screenshot 2026-10-02 121431" src="https://github.com/user-attachments/assets/9bdbe853-be0c-4bf2-ba33-cf0bd2b6d1aa" />
+<img width="1888" height="893" alt="Screenshot 2026-10-02 121416" src="https://github.com/user-attachments/assets/6531dd6c-e239-484c-8a74-f85d8b86520b" />
+<img width="1895" height="885" alt="Screenshot 2026-10-02 121346" src="https://github.com/user-attachments/assets/d7e91003-68f8-445d-b121-953cadce9ae0" />
 # Network Intrusion Detection System (IDS) Simulation
 
 A **defensive**, beginner-friendly hybrid IDS that analyses **synthetic network-flow records**, combines
